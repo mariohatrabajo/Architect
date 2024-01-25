@@ -1,0 +1,10 @@
+Articulo sobre arquitectura verde:
+https://www.rocketmortgage.com/learn/green-architecture#:~:text=Green%20architecture%20is%20a%20philosophy,and%20energy%20sources%20in%20construction.
+
+Architect Landing Page:
+https://dribbble.com/shots/21228380-Architect-Landing-Page-Design
+
+TODO:
+    - Slider
+    - Hacerlo responsive xd
+        · Clamps
